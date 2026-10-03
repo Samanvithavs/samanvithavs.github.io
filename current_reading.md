@@ -1,6 +1,7 @@
 -----
 layout : default
 title: Current Reading
+permalink: /current reading/
 ----
 
 ## What am I currently reading ?
