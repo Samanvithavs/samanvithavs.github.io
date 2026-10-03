@@ -1,8 +1,8 @@
------
-layout : default
+---
+layout: page
 title: Current Reading
-permalink: /current reading/
-----
+permalink: /current_reading/
+---
 
 ## What am I currently reading ?
 Mookajjiya kanasugalu - A kannada novel by Dr. Shivarama Karanth for which he was awarded Gnanapeeta awards.
