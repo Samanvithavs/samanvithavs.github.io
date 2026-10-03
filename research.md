@@ -10,8 +10,8 @@ My research focuses on molecular simulations of ionic liquids, confined systems,
 
 ## Current research interests
 
+- Ionic liquids
+- Confined Ionic liquids
 - Molecular dynamics simulations
-- Confined ionic liquids
-- Ion transport
-- Machine-learning interatomic potentials
-- Energy decomposition analysis
+- Ion transport in electrolytes
+- Machine-learning interatomic potentials for electrolytes
