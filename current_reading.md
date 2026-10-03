@@ -1,7 +1,6 @@
 -----
-title: 
-
-
+layout : default
+title: Current Reading
 ----
 
 ## What am I currently reading ?
