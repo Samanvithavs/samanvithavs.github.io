@@ -1,22 +1,25 @@
+```html
 <div class="sidebar">
   <div class="container sidebar-sticky">
 
-   <div class="sidebar-about">
+    <div class="sidebar-about">
 
-  <img src="{{ site.baseurl }}/public/profile.jpg"
-       alt="Samanvitha"
-       class="profile-picture">
+      <img src="{{ site.baseurl }}/public/profile.jpg"
+           alt="Samanvitha"
+           class="profile-picture">
 
-  <h1>
-    <a href="{{ site.baseurl }}">
-      {{ site.title }}
-    </a>
-  </h1>
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+
+    </div>
 
     <nav class="sidebar-nav">
 
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}"
-         href="{{ site.baseurl }}">
+      <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}"
+         href="{{ site.baseurl }}/">
         Home
       </a>
 
@@ -27,7 +30,7 @@
           {% if node.layout == "page" %}
 
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
-               href="{{ node.url }}">
+               href="{{ site.baseurl }}{{ node.url }}">
               {{ node.title }}
             </a>
 
@@ -48,3 +51,5 @@
 
   </div>
 </div>
+```
+
