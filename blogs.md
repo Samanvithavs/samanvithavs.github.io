@@ -1,7 +1,7 @@
 ---
-title: Blogs
 layout: page
-permalink: /blogs.md/
+title: Blogs
+permalink: /blogs/
 
 # Blogs 
 I like to read and write. Here are few of my writings :)
