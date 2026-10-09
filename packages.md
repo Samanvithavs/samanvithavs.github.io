@@ -1,4 +1,4 @@
-----
+---
 layout: page
 title: Packages
 permalink: /packages/
