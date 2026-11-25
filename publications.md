@@ -3,8 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-## Publications
-
+<ol reversed>
 3. **Molecular dynamics study of [EMIM][TFSI]/(Li/Na)TFSI ionic liquids confined in silica pores**<br>
     S.K.V Shankar, C. Ewels, J. Le Bideau, Y. Claveau<br>
     Phys. Chem. Chem. Phys., **2026**, 28, 10131-10146
@@ -19,4 +18,5 @@ permalink: /publications/
     S.K.V.Shankar, Y.Claveau, T. Rasoanarivo, C. Ewels, J. Le Bideau<br>
     Phys. Chem. Chem. Phys.}, **2024**, 26, 7049-705
     [Read publication](https://doi.org/10.1039/D3CP06315A)
+<ol reversed>
 
